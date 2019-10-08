@@ -5,7 +5,7 @@ Verteilung innerhlab Gemeinde bzw. PLZ mit Gini-Index bewertet
 
 
 ## Webseite: 
-https://smetzler.github.io/agrar_subs/out_v03_cluster.html 
+https://smetzler.github.io/agrar_subs/index.html 
 
 ## Quellen: 
 Rohdaten:
