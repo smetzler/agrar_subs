@@ -7,9 +7,15 @@ Verteilung innerhlab Gemeinde bzw. PLZ mit Gini-Index bewertet
 ## Webseite: 
 https://vizsim.github.io/agrar_subs/index.html 
 
+
 ## Quellen: 
 Rohdaten:
 https://www.agrar-fischerei-zahlungen.de/Suche
 
 PLZ-Shapes:
 https://www.suche-postleitzahl.org/downloads
+
+
+
+## Webseite#2: 
+https://vizsim.github.io/agrar_subs/Verteilung_je_Perzentil.html 
